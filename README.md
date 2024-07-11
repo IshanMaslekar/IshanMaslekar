@@ -1,5 +1,4 @@
 - 👋 Hey, I’m Ishan
-- 👀 Intrested in Web Development
-- 🌱 Currently into ML & ReactJS
+- 🌱 Currently into GenAI & Data Structures
 - 📫 Reach me at - https://www.linkedin.com/in/ishanmaslekar/
 
